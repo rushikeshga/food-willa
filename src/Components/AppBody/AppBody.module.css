@@ -1,0 +1,7 @@
+.SearchBar{
+    padding: 10px;
+}
+.cards_container{
+    display: flex;
+    flex-wrap: wrap;
+}
